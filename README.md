@@ -4,11 +4,11 @@
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [春节出游](https://github.com/jiemaoli/gitblog/issues/20)--2023-02-01
 - [kelek](https://github.com/jiemaoli/gitblog/issues/19)--2023-02-01
 - [过年了](https://github.com/jiemaoli/gitblog/issues/18)--2023-01-21
 - [Bandywallop](https://github.com/jiemaoli/gitblog/issues/17)--2023-01-21
 - [thesaurus](https://github.com/jiemaoli/gitblog/issues/16)--2023-01-20
-- [Roget](https://github.com/jiemaoli/gitblog/issues/15)--2023-01-19
 ## 2023
 - [过年了](https://github.com/jiemaoli/gitblog/issues/18)--2023-01-21
 - [2023的三个小目标](https://github.com/jiemaoli/gitblog/issues/1)--2023-01-04
@@ -32,5 +32,6 @@
 </details>
 
 ## 生活
+- [春节出游](https://github.com/jiemaoli/gitblog/issues/20)--2023-02-01
 - [回不去的乡思](https://github.com/jiemaoli/gitblog/issues/10)--2023-01-14
 - [开始自己带娃](https://github.com/jiemaoli/gitblog/issues/2)--2023-01-09
