@@ -9,4 +9,3 @@
 - sawhorse
    - A frame with legs, used to support pieces of wood being sawed.
    - 锯木架
-   - 今天换了个每日一词，换成了thefreedictionary的词典
