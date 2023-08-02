@@ -4,12 +4,13 @@
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [2023年已过半](https://github.com/jiemaoli/gitblog/issues/49)--2023-08-02
 - [崽崽两周岁](https://github.com/jiemaoli/gitblog/issues/48)--2023-08-02
 - [上运动课](https://github.com/jiemaoli/gitblog/issues/47)--2023-08-02
 - [clan](https://github.com/jiemaoli/gitblog/issues/46)--2023-04-07
 - [kohlrabi](https://github.com/jiemaoli/gitblog/issues/45)--2023-04-06
-- [上早教](https://github.com/jiemaoli/gitblog/issues/44)--2023-03-20
 ## 2023
+- [2023年已过半](https://github.com/jiemaoli/gitblog/issues/49)--2023-08-02
 - [帮多邻国做了次推广](https://github.com/jiemaoli/gitblog/issues/24)--2023-02-06
 - [过年了](https://github.com/jiemaoli/gitblog/issues/18)--2023-01-21
 - [2023的三个小目标](https://github.com/jiemaoli/gitblog/issues/1)--2023-01-04
